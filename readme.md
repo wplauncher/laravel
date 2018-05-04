@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.wplauncher.com/img/octopus-logo.svg" style="width:200px;"></p>
+<p align="center"><img src="https://www.wplauncher.com/img/octopus-logo.svg" width="200px" style="max-width:200px;"></p>
 
 <!--p align="center">
 <a href="https://travis-ci.org/laravel/cashier"><img src="https://travis-ci.org/laravel/cashier.svg" alt="Build Status"></a>
